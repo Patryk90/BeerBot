@@ -1,0 +1,5 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/AI.BeerBot/BeerBot/bin/Debug/netcoreapp2.1
